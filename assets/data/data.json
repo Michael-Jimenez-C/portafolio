@@ -12,7 +12,7 @@
         "github": "https://github.com/Michael-Jimenez-C",
         "likedin": "https://linkedin.com/in/jimenezmichael"
     },
-    "about": "Principalmente me enfoco en la ciencia de datos y el desarrollo con python para backend, pero también he utilizado otros lenguajes y herramientas.",
+    "about": "Mi experiencia se centra en la ciencia de datos y el desarrollo backend, con Python como mi herramienta principal. Sin embargo, también he trabajado con Javascript, Java y C++.",
     "technologies": [
         {
             "icon": "devicon-python-plain",
@@ -101,10 +101,47 @@
     ],
     "experience": [
         {
+            "icon": "brain-circuit",
+            "title": "Student Chapter ACM Universidad Distrital",
+            "subtitle": "Lider de PyGroup",
+            "description": "Doy indicaciones a los instructores de PyGroup sobre las tematicas a tratar y apoyo en la generación de contenido para las clases, además de mantener informados a los mismos sobre nuevas tecnologias.",
+            "date": "2024-Presente",
+            "github": "https://github.com/ACMUD/PyGroupIA",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-tensorflow-original",
+                    "name": "Tensorflow"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Sci-kit learn"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "Numpy"
+                },
+                {
+                    "icon": "devicon-mongodb-plain-wordmark",
+                    "name": "MongoDB"
+                }
+            ]
+        },{
             "icon": "terminal",
             "title": "Taller electronico Spectrum",
             "subtitle": "Programador",
-            "description": "Desarrollé una interfaz para una raspberry pi que permitia enviar datos de GPS y sensores a un servidor. Tambien desarrollé y configuré un servidor para cargar las actualizaciones de ese sistema.",
+            "description": "Desarrollé una interfaz para una raspberry pi que permitia enviar datos de GPS y sensores a un servidor.\nTambién desarrollé y configuré un servidor para cargar las actualizaciones de ese sistema.",
             "date": "2024",
             "technologies":[
                 {
@@ -125,7 +162,7 @@
             "icon": "award",
             "title": "Hackathon SAE",
             "subtitle": "Participante, Cuarto lugar",
-            "description": "Participe junto a mi equipo en una hackathon organizada por la Universidad Distrital Francisco José de Caldas en conjunto con la SAE para analizar y construir un modelo sobre un conjunto de inmuebles.",
+            "description": "Participé junto a mi equipo en una hackathon organizada por la Universidad Distrital Francisco José de Caldas en conjunto con la SAE para analizar y construir un modelo sobre un conjunto de inmuebles.",
             "date": "2023",
             "technologies":[
                 {
@@ -152,9 +189,9 @@
         },
         {
             "icon": "brain-circuit",
-            "title": "ACMUD",
+            "title": "Student Chapter ACM Universidad Distrital",
             "subtitle": "Instructor de python para IA",
-            "description": "Fui instructor de pygroup IA del capitulo estudiantil ACMUD, donde enseñé a los estudiantes a utilizar python para IA y machine learning.",
+            "description": "Fui instructor de pygroup IA del capitulo estudiantil ACM de la Universida Distrital, donde enseñé a los estudiantes a utilizar python y sus frameworks para inteligencia artificial y machine learning.",
             "date": "2022-2024",
             "github": "https://github.com/ACMUD/PyGroupIA",
             "technologies":[
@@ -216,9 +253,9 @@
         },
         {
             "icon": "brain-circuit",
-            "title": "ACMUD",
-            "subtitle": "Desarrollador SIGAI",
-            "description": "Participé en SIGAI (Grupo de interes en inteligencia artificial del capitulo estudiantil ACMUD) donde me dediqué a aprender el uso y funcionamiento de las redes neuronales NLP, redes convolucionales y a apoyé en algunas pruebas de concepto.",
+            "title": "Student Chapter ACM Universidad Distrital",
+            "subtitle": "Desarrollador",
+            "description": "Participé en SIGAI (Grupo de interés en inteligencia artificial) donde aprendrí a utilizar frameworks de Machine larning para procesamiento de lenguaje natural y generación de imagenes.\nApoyé en el desarrollo de pruebas de concepto para un proyecto de generación de novelas visuales.",
             "date": "2021-2022",
             "technologies":[
                 {
@@ -239,9 +276,9 @@
     "projects": [
         {
             "icon": "terminal",
-            "title": "Mongo blog backend",
-            "subtitle": "Un simple backend para un blog",
-            "description": "Un backend de un blog con mongo y con un sistema de autenticación bearer + jwt y optimización de imagenes.",
+            "title": "Blog backend",
+            "subtitle": "Backend para un blog",
+            "description": "Backend para un blog con Mongo, un sistema de autenticación Bearer + JWT y optimización de imágenes.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -266,8 +303,8 @@
         {
             "icon": "square-user",
             "title": "Kaggle profile cards",
-            "subtitle": "Una API que retorna una imagen de perfil de kaggle",
-            "description": "Es una API la cual mediante ingenieria inversa obtiene pemisos para solicitar al backend de kaggle datos publicos de usuario para generar una tarjeta sencilla con dicha información.",
+            "subtitle": "API que retorna una tarjeta de perfil de kaggle",
+            "description": "API la cual mediante ingeniería inversa obtiene pemisos para solicitar datos públicos de usuario con la cual genera una tarjeta con dicha información.\n Principalmente para mostrar en Github y sitios similares.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -285,7 +322,7 @@
             "icon": "brain-circuit",
             "title": "Curso pygroup IA",
             "subtitle": "Material de pygroup IA",
-            "description": "Contiene algoritmos hechos desde cero y con frameworks, por ejemplo, arboles de decisión, perceptrones y redes neuronales",
+            "description": "Desarrollé algoritmos hechos desde cero y con frameworks utilizando diferentes estructuras, por ejemplo, arboles de decisión C4.5 mediante objetos y en forma recursiva, perceptrones y redes neuronales",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
