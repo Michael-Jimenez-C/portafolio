@@ -1,128 +1,334 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Michael Jimenez | Portafolio",
+    "description": "Desarrollador y cientifico de datos",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Michael Jimenez Contreras",
+    "skill": "Desarrollador y cientifico de datos",
+    "location": "Bogotá D.C., Colombia",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "dev.mjimenez@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Michael-Jimenez-C",
+        "likedin": "https://linkedin.com/in/jimenezmichael"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Principalmente me enfoco en la ciencia de datos y el desarrollo con python para backend, pero también he utilizado otros lenguajes y herramientas.",
     "technologies": [
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "Javascript"
+        },
+        {
+            "icon": "devicon-typescript-plain",
+            "name": "Typescript"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+        },
+        {
+            "icon": "devicon-linux-plain",
+            "name": "Linux"
+        },
+        {
+            "icon": "devicon-sqlite-plain",
+            "name": "Sqlite"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "Mysql"
+        },
+        {
+            "icon": "devicon-mongodb-plain-wordmark",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-flask-plain",
+            "name": "Flask"
+        },
+        {
+            "icon": "devicon-fastapi-plain",
+            "name": "FastApi"
+        },
+        {
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-nextjs-plain",
+            "name": "Nextjs"
+        },
+        {
+            "icon": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+        },
+        {
+            "icon": "devicon-keras-plain",
+            "name": "Keras"
+        },
+        {
+            "icon": "devicon-scikitlearn-plain",
+            "name": "Sci-kit learn"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "Node"
+        },
+        {
+            "icon": "devicon-raspberrypi-plain",
+            "name": "Node"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
+            "title": "Taller electronico Spectrum",
             "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "description": "Desarrollé una interfaz para una raspberry pi que permitia enviar datos de GPS y sensores a un servidor. Tambien desarrollé y configuré un servidor para cargar las actualizaciones de ese sistema.",
+            "date": "2024",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "Flask"
+                },
+                {
+                    "icon": "devicon-raspberrypi-plain",
+                    "name": "Raspberry"
+                }
+            ]
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "award",
+            "title": "Hackathon SAE",
+            "subtitle": "Participante, Cuarto lugar",
+            "description": "Participe junto a mi equipo en una hackathon organizada por la Universidad Distrital Francisco José de Caldas en conjunto con la SAE para analizar y construir un modelo sobre un conjunto de inmuebles.",
+            "date": "2023",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-tensorflow-original",
+                    "name": "Tensorflow"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Sci-kit learn"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "Numpy"
+                }
+            ]
+        },
+        {
+            "icon": "brain-circuit",
+            "title": "ACMUD",
+            "subtitle": "Instructor de python para IA",
+            "description": "Fui instructor de pygroup IA del capitulo estudiantil ACMUD, donde enseñé a los estudiantes a utilizar python para IA y machine learning.",
+            "date": "2022-2024",
+            "github": "https://github.com/ACMUD/PyGroupIA",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-tensorflow-original",
+                    "name": "Tensorflow"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Sci-kit learn"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "Numpy"
+                },
+                {
+                    "icon": "devicon-mongodb-plain-wordmark",
+                    "name": "MongoDB"
+                }
+            ]
+        },
+        {
+            "icon": "trophy",
+            "title": "Hackathon WOM",
+            "subtitle": "Participante, Primer lugar",
+            "description": "Junto a mi equipo ganamos una hackathon organizada por la Universidad Distrital Francisco José de Caldas en conjunto con WOM sobre datos de celdas de telecomunicaciones para generar modelos que permitieran detectar celdas estresadas de forma rápida con ayuda de KPIs.",
+            "date": "2023",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Sci-kit learn"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "Numpy"
+                }
+            ]
+        },
+        {
+            "icon": "brain-circuit",
+            "title": "ACMUD",
+            "subtitle": "Desarrollador SIGAI",
+            "description": "Participé en SIGAI (Grupo de interes en inteligencia artificial del capitulo estudiantil ACMUD) donde me dediqué a aprender el uso y funcionamiento de las redes neuronales NLP, redes convolucionales y a apoyé en algunas pruebas de concepto.",
+            "date": "2021-2022",
+            "technologies":[
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-tensorflow-original",
+                    "name": "Tensorflow"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                }
+            ]
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "terminal",
+            "title": "Mongo blog backend",
+            "subtitle": "Un simple backend para un blog",
+            "description": "Un backend de un blog con mongo y con un sistema de autenticación bearer + jwt y optimización de imagenes.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-fastapi-plain",
+                    "name": "FastApi"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
+                },
+                {
+                    "icon": "devicon-aws-plain",
+                    "name": "Minio/S3 bucket"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/Michael-Jimenez-C/mongo-blog-backend",
+            "image": "/blogback.webp"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "square-user",
+            "title": "Kaggle profile cards",
+            "subtitle": "Una API que retorna una imagen de perfil de kaggle",
+            "description": "Es una API la cual mediante ingenieria inversa obtiene pemisos para solicitar al backend de kaggle datos publicos de usuario para generar una tarjeta sencilla con dicha información.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-fastapi-plain",
+                    "name": "FastApi"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/Michael-Jimenez-C/kaggle-profile-card",
+            "image": "/kagglecard.webp"
+        },
+        {
+            "icon": "brain-circuit",
+            "title": "Curso pygroup IA",
+            "subtitle": "Material de pygroup IA",
+            "description": "Contiene algoritmos hechos desde cero y con frameworks, por ejemplo, arboles de decición, perceptrones y redes neuronales",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "Numpy"
+                },
+                {
+                    "icon": "devicon-pandas-plain",
+                    "name": "Pandas"
+                },
+                {
+                    "icon": "devicon-tensorflow-plain",
+                    "name": "Tensorflow"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Sci-kit learn"
+                },
+                {
+                    "icon": "devicon-scipy-plain",
+                    "name": "scipy"
+                }
+            ],
+            "github": "https://github.com/ACMUD/PyGroupIA",
+            "image": "/PyGroup.webp"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Ingenieria de sistemas",
+            "subtitle": "Universidad distrital Francisco José de Caldas",
+            "description": "",
+            "date": "Actualmente"
         }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
     ]
 }
