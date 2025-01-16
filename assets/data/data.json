@@ -285,7 +285,7 @@
             "icon": "brain-circuit",
             "title": "Curso pygroup IA",
             "subtitle": "Material de pygroup IA",
-            "description": "Contiene algoritmos hechos desde cero y con frameworks, por ejemplo, arboles de decición, perceptrones y redes neuronales",
+            "description": "Contiene algoritmos hechos desde cero y con frameworks, por ejemplo, arboles de decisión, perceptrones y redes neuronales",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
