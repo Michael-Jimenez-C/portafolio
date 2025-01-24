@@ -96,7 +96,7 @@
         },
         {
             "icon": "devicon-raspberrypi-plain",
-            "name": "Node"
+            "name": "Raspberry Pi"
         }
     ],
     "experience": [
@@ -104,7 +104,7 @@
             "icon": "brain-circuit",
             "title": "Student Chapter ACM Universidad Distrital",
             "subtitle": "Lider de PyGroup",
-            "description": "Doy indicaciones a los instructores de PyGroup sobre las tematicas a tratar y apoyo en la generación de contenido para las clases, además de mantener informados a los mismos sobre nuevas tecnologias.",
+            "description": "Planifico las temáticas y tecnologías a tratar por los instructores de PyGroup. También Apoyo en la generación de contenido para las clases, además de mantener informados a los mismos sobre nuevas tecnologias.",
             "date": "2024-Presente",
             "github": "https://github.com/ACMUD/PyGroupIA",
             "technologies":[
